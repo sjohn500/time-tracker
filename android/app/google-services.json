@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "241157259889",
+    "project_id": "time-tracker-serach26",
+    "storage_bucket": "time-tracker-serach26.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241157259889:android:f38ed8d0761ae8649891d0",
+        "android_client_info": {
+          "package_name": "com.example.time_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGSJggDbfSZZykbVhhzsWvk1Ow1HXjeNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
